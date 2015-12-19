@@ -55,7 +55,7 @@ public class resumeScanner{
 		  }
 		  for(String s: descrip_verb){
 			  for(String m: pool){
-				  if(m.contains(s)){
+				  if(m.toLowerCase().contains(s.toLowerCase())){
 					  if(verbfreq.containsKey(s)){
 						  verbfreq.replace(s,verbfreq.get(s) + 1);
 					  }
@@ -64,7 +64,10 @@ public class resumeScanner{
 		  }  
 		  for(String s: descrip_noun){
 			  for(String m: pool){
-				  if(m.contains(s)){
+//				  if(m.equals("software")){
+//					  System.out.println("debug");
+//				  }
+				  if(m.toLowerCase().contains(s.toLowerCase())){
 					  if(nounfreq.containsKey(s)){
 						  nounfreq.replace(s,nounfreq.get(s) + 1);
 					  }
