@@ -1,0 +1,15 @@
+Software engineer
+
+
+Software engineers (SWEs) dive deep into code and work with fellow programming experts to solve problems and build powerful new tools. You are required to think about the customer to ensure stellar product quality, and you provide technical guidance to PMs as they communicate user needs and product requirements. As a SWE, you are dedicated to producing the world’s most advanced software.
+
+Qualifications
+
+A bachelor’s, master’s or doctorate degree in engineering, computer science or related field (pursuing with at least one semester/quarter remaining after internship).
+A year or two of experience programming in C++, Java or other computer programming languages preferred.
+A year or two of experience in C/C++/C#/VB.NET and experience designing and developing tool architecture preferred.
+Strong technical prowess, including understanding of algorithms, systems architecture and end-user experience.
+Ability to think unconventionally to derive creative and innovative solutions.
+Demonstrated expertise in feature definition, design and feasibility.
+Demonstrated skill in estimating development time.
+Demonstrated skills in negotiation and conflict management.

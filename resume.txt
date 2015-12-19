@@ -1,0 +1,74 @@
+SIXING LU                                                              1425 N Park Ave Apt 1203, Tucson, Arizona, 85719  
+					                                (520) 561-7827     sixinglu@email.arizona.edu
+
+
+Qualification Summary:  Experienced with C++ for more than 5 years; have developed and delivered multiple tools with features design for consumer requirement; managed conflict in the team.
+EDUCATION
+Ph.D.,	Major: Computer Engineering,	GPA 4.0/4.0                                           University of Arizona, expected: 2017
+	Minor: Computer Science,	GPA 3.8/4.0                                           University of Arizona, expected: 2017
+M.S.,	Electrical Engineering,	GPA 3.5/4.0	Beijing University of Posts and Telecommunication, Mar 2013
+B.S.,	Electrical Engineering,	GPA 3.8/4.0                                Zhejiang Gongshang University, June, 2010 
+SOFTWARE PROGRAMMING SKILLS
+•	Expert (more than 5 years):		C++, C, Verilog/VHDL
+•	Proficient (more than 2 years):		Java, SystemC, Python 
+•	Experienced (more than 1 year):	Swift, d3js, Javascript, HTML, CSS, Bash, R
+
+•	Platform and tools:	Visual Studio, Eclipse, MATLAB, Xilinx XPS, EDK, ISE, ChipScope, Xcode, R studio, SVN, github, LaTex, Orgin, Visio, OpenStack, AWS
+PROJECT EXPERIENCE
+Researcher Binder: Cooperation Connection based on Information Retrieval             08/2015-present
+•	Developed a tool to find cooperation among researchers by co-author relationship. 
+•	Utilized Machine Learning to speedup retrieval: modeled with linear regression and KNN; trained with summary (after feature selection), affiliation, publication time of each author, and finds most likely related author.
+•	Input is 2000 citation collection from arXiv database. Approach yields speedup of up to 100x with accuracy improvements of up to 40%. 
+
+Pattern Extraction for Anomaly Detection with Data visualization 		   	  08/2015-present   
+•	Developed a web-based tool to extract system patterns from execution data, e.g. timing, power consumption. 
+•	Created hierarchical visualizer to compare different sets of data with scatter plot, distributions, CDF, statistical indicators. User can select part of data and customize statistical formula to do comparison interactively.
+•	Use cases: normal/malware execution comparison, monitor target selection, evaluation of architectural factors.
+
+Extreme Picture Browsing: an iOS application 						 01/2015-05/2015
+•	Developed an image processing and image reverse search iOS application, can be used for object detection. 
+•	Input image of multiple objects from camera; output information of individual object. API: Opencv and AWS S3.
+•	Designed requirement documents, developed with SCRUM methodology. Team size is three. 
+•	Passed tests, released α, β and final version with license. Publish video on https://youtu.be/AZavKFbgwYw.
+
+Operating System Level Firewall								 08/2014-12/2014
+•	Developed a dynamic rule-based OS level firewall for the embedded Linux system. 
+•	The firewall blocks suspicious packets from network layer to transport layer. Verify order: non-memory related/ static rule (e.g.TTL length), memory related rule (e.g., IP blacklist), statistical rule (e.g., packet coming frequency).  
+•	Memory replace policy: Least Recent Used (LRU); Write pattern: write through.
+•	Evaluated functionality by Colasoft packet builder tool, performance yields 1s with 2MB memory and 0.2w power consumption.
+WORK EXPERIENCE
+Graduate Research Assistant        Embedded Systems Design Laboratory	              08/2013-present
+•	Investigating anomaly-based malware detection for security in embedded systems, particularly safety and life critical systems. 
+•	Designed an efficient, non-intrusive, hardware-based runtime anomaly detector. Integrated the hardware detector within a full FPGA-based system-on-a-chip (SOC) prototype for a network-connected pacemaker. Experiments and evaluation demonstrate zero performance overhead and less than 5% power consumption overhead.
+•	Developed formal models to capture correct system execution behavior combining execution sequence models and expected timing.
+•	Developed methodology to automatically collect timing of system events using a system prototype to facilitate automatic construction of system models. 
+•	Developed SystemC-based simulation platform to analyze massive timing data and enable evaluation of alternative system models, hardware design, evaluate our method compared to existing approaches, and accurately analyze false positives. 
+
+Teaching Assistant                           University of Arizona		          			 08/2013-12/2015
+ECE275 Computer Programming for Engineering Applications II
+•	Designed C++ coding assignments for homework, and organized discussion in class and office hour.
+•	Developed automatic grade script with python for grading the 200 students and checked plagiarism.
+
+ECE175 Computer Programming for Engineering Applications
+•	Instructed lab sessions for C language, and organized discussion in office hour.
+•	Designed 10x12 testfiles for 12 assignments to evaluate result from 300 students. 
+
+Researcher Intern                         	  NTT DOCOMO, INC. 				 12/2012-05/2013
+•	Developed simulation platform for code book design in Multiple-Input-Multiple-Output telecommunication system.
+•	Handled and compared simulation results from different simulations, reported and presented weekly.  
+•	Simulation was developed and analyzed with MATLAB.
+
+Graduate Research Assistant     Information and Electronic Technology Laboratory        09/2010-12/2012
+•	Researched on interference coordination with space resource in multi-antenna 4G telecommunication network. 
+•	Designed and developed TD-LTE network simulation platform with C++. Integrated MIMO and traffic modules to evaluate the simulation with key performance indicators, including throughput, traffic load, etc.  
+•	Proposed and successfully applied a project about interference alignment for young researchers. Contributed to a proposal “Multiple Modes, Band and Antennae Technology of Mobile Terminal” from NSF China.
+RELATED COURSES
+•	Systems Related: Computer Architecture, Operating System, Computer Network, Cyber Security
+•	Software Related: Software Development Concept, Object-oriented Programing
+•	Data Analysis: Information Retrieval, Data Visualization, Database
+•	Design Related: Computer-Aided Logic Design, Computer-based System Design, Algorithm Design, VLSI System Design
+
+OPEN SOURCE 
+•	Github:  https://github.com/sixinglu 
+•	Personal URL: http://www.u.arizona.edu/~sixinglu/
+•	LinkedIn: https://www.linkedin.com/in/sixinglu 
